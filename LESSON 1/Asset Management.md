@@ -1,2 +1,2 @@
 ## INFORMATION
-bla bla bla...
+
