@@ -32,15 +32,21 @@
 
 # INFORMATION
 
-## Two main topics
+## Srtructure
 
 Tips         |  Theory
 ------------ |  ------------
-Tips         |     Theory
-fsfdfgs      |     dfvsfgsgf
-dgeg         |   ddd
+beCarefulWithRunTime (playMode) | game objects
+|
+secureReference |  instantiate
+|
+freeCamera      |  toogle tool handle 
+|
+proportionalScale | scene multiple editor
+|
+copyValues        | prefabs
 
-solo hay una cosa importante en unity, como con todo, y es enfrentarse a la frustración, la curva de aprendizaje siempre será cuesta arriba, si no lo haces te esperan otros buenos puestos pero menos emocionantes, lo intentaré esxplicar con este diagrama:
+Only one thing is essential for Unity, as with everything, you have to face your frustration, the learning curve is always uphill, if you are not ready, this is not for you. Other jobs await you, but less demanding. I will try to explain it with this diagram --->
 
 ```flow
 st=>start: Unity
@@ -54,5 +60,4 @@ st->op->op2->cond->cond->cond->op3
 cond(yes)->e
 cond(no)->op3
 cond(no)->op3
-
 ```
