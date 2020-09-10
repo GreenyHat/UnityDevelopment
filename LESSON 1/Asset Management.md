@@ -37,7 +37,7 @@
 Tips         |  Theory
 ------------ |  ------------
 beCarefulWithRunTime (playMode) | game objects
-             |  
+ ------------ |  ------------  
 secureReference |  instantiate
 ------------ |  ------------
 freeCamera   |  toogle tool handle 
