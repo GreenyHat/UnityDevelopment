@@ -6,6 +6,7 @@
 Tips         |  Theory
 ------------ |  ------------
 beCarefulWithRunTime (playMode) | game objects
+<<<<<<< Updated upstream
  ------------ |  ------------  
 secureReference |  instantiate
 ------------ |  ------------
@@ -15,6 +16,16 @@ proportionalScale | scene multiple editor
 ------------ |  ------------
 copyValues   |      prefabs
 ------------ |  ------------
+=======
+|
+secureReference |  instantiate
+|
+freeCamera      |  toogle tool handle 
+|
+proportionalScale | scene multiple editor
+|
+copyValues        | prefabs
+>>>>>>> Stashed changes
 
 Only one thing is essential for Unity, as with everything, you have to face your frustration, the learning curve is always uphill, if you are not ready, this is not for you. Other jobs await you, but less demanding. I will try to explain it with this diagram --->
 
